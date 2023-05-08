@@ -5,9 +5,9 @@ Weather is a FiveM compatible resource which creates two commands that players/a
 ## Versions
 In this Git is 4 versions of the weather resource here are their details:
 1. Weather: This is the standard FiveM resource with no requirements.
-2. Weather ESX: This includes my notifications resource and requires ESX
+2. Weather ESX: This includes [my notifications resource](https://github.com/JimboDaDuck/FiveM-ESX-Notifications) and requires ESX
 3. Weather ESX Admin: This has admin requirements and requires ESX (in the server.lua you can change it from admin to another group such as "owner"
-4. Weather ESX Admin 2: This is the same as the previous but with my notifications resource
+4. Weather ESX Admin 2: This is the same as the previous but with [my notifications resource](https://github.com/JimboDaDuck/FiveM-ESX-Notifications)
 
  ## Installation 
  1. [Download](https://github.com/JimboDaDuck/FiveM-Weather.git) The resource from GitHub
